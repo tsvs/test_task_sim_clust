@@ -1,0 +1,6 @@
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+jina==3.10.1
+numpy==1.23.2
+opencv-python==4.6.0.66
+faiss-cpu==1.7.2
